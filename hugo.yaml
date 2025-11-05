@@ -21,6 +21,9 @@ menu:
     - name: Docs
       pageRef: /docs
       weight: 1
+    # - name: test
+    #   pageRef: /test
+    #   weight: 1
     - name: About
       pageRef: /about
       weight: 2
